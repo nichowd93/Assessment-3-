@@ -1,0 +1,29 @@
+/*
+    Q1 - Write a media query for desktop first.  The break point needs to be at 960px;
+*/
+
+@media only screen and (max-width: 960px) {
+
+}
+
+
+
+/*
+    Q2 - Write a media query for mobile first.  The break point needs to be at 720px;
+*/
+@media only screen and (max-width: 720px) {
+        
+}
+
+
+
+/*
+    Q3 - What CSS property are you having the most trouble figuring out?
+The float property is peopbably the most trouble for me now that I have discovered flexbox. 
+
+
+/*
+    Q4 - What is the best CSS property and why?
+The best CSS property is probably flex because it helps create the layout very easily. 
+*/
+
